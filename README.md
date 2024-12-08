@@ -22,7 +22,7 @@ Shiroko is a simple app designed for cat adoption. It showcases a variety of cat
 ![Web App Preview of Belajar Membuat Aplikasi Flutter untuk Pemula!](/assets/documentation/FinalProject-BMAFP-WebAppPreview.png "Web App Preview")
 
 ## ✅ Final Project Checklist
-* Using Stateless Widget.  
-* Using Stateful Widget.  
-* There are at least 2 pages with the implementation of Navigation.  
-* No overflow in the display.  
+* [x] Using Stateless Widget.  
+* [x] Using Stateful Widget.  
+* [x] There are at least 2 pages with the implementation of Navigation.  
+* [x] No overflow in the display.  
